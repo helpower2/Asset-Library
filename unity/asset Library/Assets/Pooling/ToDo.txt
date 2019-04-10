@@ -1,0 +1,1 @@
+ObjectPooler.cs line 67 : remove GetComponent.
